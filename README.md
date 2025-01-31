@@ -1,60 +1,70 @@
-# 残酷共学模版
-
-> 本文档为创建残酷共学的通用模版 - 中文版，请根据模版结构来进行你的残酷共学的内容填充，请将 {} 内容进行替换
-
-# {残酷共学名称} <img alt="logo" height="80px" width="80px" src="{残酷共学 logo 图片 URL，没有可以删掉}" />
+# Ethereum Protocol Fellowship
 
 ## 介绍
 
-{残酷共学的介绍}
+EPF（Ethereum Protocol Fellowship）是一个由 EF 发起并且资助的奖学金计划，每年会运行一期，会从社区中筛选出 20-30 位优秀的开发者加入奖学金计划。在计划期间，EF 会提供 Mentor 和一些资金资助来让开发者很快很好的熟悉以太坊的协议层和客户端相关的知识和背景。EPF 每年会在 6 月份左右开放报名，经过大概 5 个月的实践和开发，在 11 月底的 Devcon/Devconnect 大会上进行成果展示等。
+
+从去年开始，EPF 新增了一个 EPFsg（EPF Study Group）的教学计划，方便吸引更多的开发者，提前进行相关知识学习。同时产出了 epf.wiki 这个优秀的学习资料。今年的 EPFsg 和 EPF 即将启动，因此我们发起本次残酷共学，希望大家可以快速的回顾相关资料，做好今年 EPFsg 的入学提前准备，之后一起学习。
 
 ## 关键词
 
-{残酷共学的关键词 tag，能够让参与者比较快速的搜索和定位到你的这个残酷共学，比如 DeFi，DAO，English 等，请用英文，并用英文的逗号（,）分隔}
+Ethereum, Protocol, EPF
 
 ## 面向人群
 
-{残酷共学主要的受众人群，比如是专门针对程序员的，那么没有这方面技能和经验的人就可以不参加}
+- 对于以太坊协议比较感兴趣的研究员或者开发者
+- 对 EPFsg 和 EPF 比较感兴趣的朋友
+- 最好有一些代码基础，因为这个课程会有一些技术深度
 
 ## 报名时间
 
-- 开始时间：{报名开始时间，格式：yyyy-mm-dd，例子：2024-11-01}
-- 结束时间：{报名结束时间，格式：yyyy-mm-dd，例子：2024-11-01}
+- 开始时间：2025-02-01
+- 结束时间：2025-02-05
 
 ## 共学时间
 
-- 开始时间：{共学正式开始时间，格式：yyyy-mm-dd，例子：2024-11-01}
-- 结束时间：{共学正式开始时间，格式：yyyy-mm-dd，例子：2024-11-01}
+- 开始时间：2025-02-06
+- 结束时间：2025-03-06
 
 ## 发起人
 
-- 姓名：{残酷共学发起人名字}
-- GitHub ID：{残酷共学发起人 GitHub ID}
-- Telegram：{残酷共学发起人 Telegram ID}
-- Email：{残酷共学发起人 email}
+- 姓名：Bruce Xu
+- GitHub ID：brucexu-eth
+- Telegram：brucexu_eth
+- Email：brucex2710@gmail.com
 
 ## 发起组织
 
-- {残酷共学发起组织方，可以是多个，请按以下格式将组织名称、link 和 logo 填好}
-  [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://avatars.githubusercontent.com/u/167147327?s=200&v=4" />
+- [ETHPanda](https://ethpanda.org/) <img alt="organization-logo" height="60px" src="https://cdn.lxdao.io/10aed40b-4786-4c2b-aaaa-b7d8a119c00e.png" />
 
 ## 请假规则
 
-每周请假 {请假次数，数字} 次
+每周请假 2 次
 
 ## 社群
 
-Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内容}
+Telegram：https://t.me/ETHPandaOrg/5427
 
 ## 学习资料/课程安排
 
 {这部分内容是直接用 markdown 格式来编写，默认学习资料是一定要提供的，如果有导师线上上课，需要提供课程安排以及导师信息}
 
+### 第一周和第二周
+
+- 主要围绕 https://epf.wiki/ 进行学习，可以快速的刷完之前的一些知识和笔记
+- 期间会穿插 EPF 相关的技术分享，包括但不限于去年 EPF 计划入选者的经验、协议层相关的分享
+
+### 第三周和第四周
+
+- 正式的 EPFsg 将开启，我们将一起进入 EPFsg 的相关内容学习跟进
+- 本次 EPFsg 的前两周会学习压力会比较大，通过前期预习可以降低一些压力，同时我们共学小组可以一起前行
+
 ## 共学激励
 
-{这部分内容是直接用 markdown 格式来编写，激励不是必须的，如果没有激励设置，也可以不写，或者写几句激励的话都可以}
-{以下是残酷共学目前已有的福利，建议保留}
-打卡成功者福利：https://www.notion.so/lxdao/3eab258b4df44c9cb97319452b2be13b
+我们认为学习到知识就是最大的财富，希望报名的同学以深入学习以太坊知识为首要目标。我们也在联系合作方查看是否有一些激励等可以发给成功完成的同学。以下是目前的福利：
+
+- 来自 LXDAO 和南塘 DAO 的打卡成功者福利：<https://www.notion.so/lxdao/3eab258b4df44c9cb97319452b2be13b>
+- TODO
 
 ## 更多信息
 
@@ -70,7 +80,7 @@ Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内�
   - Step02：复制 Template.md 创建你的个人笔记文件，并根据文档指引填写你的信息，并将文件重命名为你的 GitHub ID：YourGitHubID.md。
   - Step03：创建一个 PR 到当前仓库，本残酷共学助教会对你的 PR 进行 review，review 通过后，你的 PR 会被 merge 到 main 分支，这个时候你会收到邀请加入这个仓库 contribution 的邮件，接受邀请后，你会自动获得 main 分支的 push 权限。
   - Step04：完成以上三个步骤，恭喜你报名成功，后续就可以将你的学习记录直接 push 到 main 分支进行更新。
-  - 请加入 xxx 群组保持交流：（请添加你创建的群组链接)。加入群组后请在群里报到一下方便助教记录。
+  - 请加入群组保持交流：<https://t.me/ETHPandaOrg/5427>。加入群组后请在群里报到一下方便助教记录。
 
 - 打卡：
   - 报名成功后，你将拥有 main 分支的 push 权限，你需要将每天学习笔记按日期更新到你的 YourName.md 文档中，提交更新后，我们会自动更新你的打卡状态到下面的打卡记录表。
@@ -85,7 +95,7 @@ Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内�
     ```
     - 日期格式为 `### 2024.07.11`，请不要随意更改
 
-## {本期残酷共学名字}打卡记录表
+## Ethereum Protocol Fellowship 打卡记录表
 
 ✅ = Done ⭕️ = Missed ❌ = Failed
 
