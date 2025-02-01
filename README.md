@@ -2,9 +2,11 @@
 
 ## 介绍
 
-EPF（Ethereum Protocol Fellowship）是一个由 EF 发起并且资助的奖学金计划，每年会运行一期，会从社区中筛选出 20-30 位优秀的开发者加入奖学金计划。在计划期间，EF 会提供 Mentor 和一些资金资助来让开发者很快很好的熟悉以太坊的协议层和客户端相关的知识和背景。EPF 每年会在 6 月份左右开放报名，经过大概 5 个月的实践和开发，在 11 月底的 Devcon/Devconnect 大会上进行成果展示等。
+[EPF（Ethereum Protocol Fellowship）](https://github.com/eth-protocol-fellows/cohort-five/blob/main/program-guide/program-details.md) 是由 EF 发起并资助的奖学金计划，每年一期，旨在从社区中遴选出 20 至 30 名优秀开发者参与。在奖学金计划期间，EF 提供导师指导和资金支持，帮助开发者迅速掌握以太坊协议层及客户端相关知识。通常，EPF 的报名在每年 6 月左右开启，经过大约 5 个月的实践开发，最终在 11 月底的 Devcon/Devconnect 大会上展示成果。
 
-从去年开始，EPF 新增了一个 EPFsg（EPF Study Group）的教学计划，方便吸引更多的开发者，提前进行相关知识学习。同时产出了 epf.wiki 这个优秀的学习资料。今年的 EPFsg 和 EPF 即将启动，因此我们发起本次残酷共学，希望大家可以快速的回顾相关资料，做好今年 EPFsg 的入学提前准备，之后一起学习。
+自去年起，EPF 增设了 [EPFsg（EPF Study Group）](https://epf.wiki/#/eps/intro) 教学计划，旨在吸引更多开发者提前学习相关知识，并同时推出了 [epf.wiki](https://epf.wiki/#/) 这一优秀学习资源。今年，EPFsg 与 EPF 均将启动。为此，我们发起了本次“残酷共学”活动，希望大家能迅速回顾相关资料，为今年 EPFsg 的入学做好充分准备，之后一同进步，共同学习。
+
+通过本次残酷共学，你将收获对于以太坊协议层（包括但不限于共识算法、网络运行等）非常深入的理解，也将获得跟以太坊协议层高级开发者的直接交流机会！
 
 ## 关键词
 
@@ -13,8 +15,8 @@ Ethereum, Protocol, EPF
 ## 面向人群
 
 - 对于以太坊协议比较感兴趣的研究员或者开发者
-- 对 EPFsg 和 EPF 比较感兴趣的朋友
-- 最好有一些代码基础，因为这个课程会有一些技术深度
+- 对申请和参加 EPFsg 和 EPF 比较感兴趣的朋友
+- 最好有一些代码基础，因为这个课程会有一些技术深度，理解起来方便一些
 
 ## 报名时间
 
@@ -47,11 +49,9 @@ Telegram：https://t.me/ETHPandaOrg/5427
 
 ## 学习资料/课程安排
 
-{这部分内容是直接用 markdown 格式来编写，默认学习资料是一定要提供的，如果有导师线上上课，需要提供课程安排以及导师信息}
-
 ### 第一周和第二周
 
-- 主要围绕 https://epf.wiki/ 进行学习，可以快速的刷完之前的一些知识和笔记
+- 主要围绕 https://epf.wiki/ 进行学习，快速的刷完之前的一些知识和笔记
 - 期间会穿插 EPF 相关的技术分享，包括但不限于去年 EPF 计划入选者的经验、协议层相关的分享
 
 ### 第三周和第四周
@@ -63,12 +63,9 @@ Telegram：https://t.me/ETHPandaOrg/5427
 
 我们认为学习到知识就是最大的财富，希望报名的同学以深入学习以太坊知识为首要目标。我们也在联系合作方查看是否有一些激励等可以发给成功完成的同学。以下是目前的福利：
 
+- ETHPanda 提供一个 150U 的奖金池，将平分给最后坚持下来的朋友
 - 来自 LXDAO 和南塘 DAO 的打卡成功者福利：<https://www.notion.so/lxdao/3eab258b4df44c9cb97319452b2be13b>
-- TODO
-
-## 更多信息
-
-{这部分内容是直接用 markdown 格式来编写，也不是必须的，这部分是如果有信息上面模块没有覆盖到，可以写在这里}
+- 正在沟通中，也欢迎联系 Bruce 垂询：<https://t.me/brucexu_eth>
 
 ## 报名和打卡规则
 
@@ -122,40 +119,3 @@ Telegram：https://t.me/ETHPandaOrg/5427
 
 <!-- STATISTICALDATA_START -->
 <!-- STATISTICALDATA_END -->
-
-> 如果你是此次共学发起人，请进行以下操作进行自动化发放权限的设置，完成后请将这一部分内容从你的仓库中删掉。
-
-### 为您的组织 【残酷共学营】 创建具有邀请协作者权限的个人访问令牌
-
-要创建具有邀请协作者权限的个人访问令牌，请按照以下步骤操作：
-
-1. 导航到您的个人设置: 转到 https://github.com/settings/profile 并登录您的 GitHub 帐户。
-
-2. 访问个人访问令牌页面: 在左侧菜单中，单击 “开发者设置”，然后选择 “个人访问令牌”。
-
-3. 创建新令牌: 点击 “生成新令牌” 按钮。选择 classic 的
-
-4. 命名您的令牌: 在 “令牌名称” 字段中输入一个描述性名称，例如 `invite-collaborators`。
-
-5. 选择适当的范围: 在 “范围” 部分，选择授予您的令牌所需的权限。对于邀请协作者，您需要授予以下范围：
-
-- `repo:invite`：允许您的令牌创建存储库邀请。最好是给这个令牌赋予 repo 总权限
-- `admin:org` 权限的用户才能创建具有邀请协作者权限的个人访问令牌。
-
-6. 将令牌值添加到存储库 secret: 按照上述步骤将您的个人访问令牌值添加到您的存储库 secret 中，并将名称设置为 `PAT_WITH_INVITE_PERMISSIONS`。
-
-![image](https://github.com/user-attachments/assets/d7c06540-9076-4557-b911-e5e484a742bb)
-<img width="1213" alt="image" src="https://github.com/user-attachments/assets/ef8e870d-e594-4caa-b42e-01150d5b5562" />
-
-### 配置共学信息配置变量
-
-1. 配置这四个仓库变量(Repository variables)，注意不要添加**换行**，**空格**符号
-
-| Field Name  | Value                     | Comments                        |
-| ----------- | ------------------------- | ------------------------------- |
-| START_DATE  | 2024-06-24T00:00:00+00:00 | Start time                      |
-| END_DATE    | 2024-07-06T23:59:59+00:00 | End time                        |
-| FIELD_NAME  | Name                      | Field name in the readme        |
-| FILE_SUFFIX | .md                       | Shared learning activity number |
-
-![image](https://github.com/user-attachments/assets/d5b6f504-9eea-4215-9848-056fc33f00f8)
