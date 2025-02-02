@@ -19,10 +19,10 @@ Ethereum, Protocol, EPF
 - 最好有一些代码基础，因为这个课程会有一些技术深度，理解起来方便一些
 
 ## 报名时间
-Pre-Intensive week
+### Pre-Intensive week
 - 开始时间：2025-02-01
 - 结束时间：2025-02-05
-Intensive week
+### Intensive week
 - 开始时间：2025-02-14
 - 结束时间：2025-02-16
 
