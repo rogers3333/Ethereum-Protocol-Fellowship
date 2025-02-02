@@ -1,5 +1,5 @@
 ---
-timezone: China/Beijing
+timezone: Asia/Shanghai
 ---
 
 # zhouCode
