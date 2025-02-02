@@ -8,9 +8,9 @@ import logging
 
 # Constants
 START_DATE = datetime.fromisoformat(os.environ.get(
-    'START_DATE', '2024-06-24T00:00:00+00:00')).replace(tzinfo=pytz.UTC)
+    'START_DATE', '2025-02-06T00:00:00+00:00')).replace(tzinfo=pytz.UTC)
 END_DATE = datetime.fromisoformat(os.environ.get(
-    'END_DATE', '2024-07-14T23:59:59+00:00')).replace(tzinfo=pytz.UTC)
+    'END_DATE', '2025-03-02T23:59:59+00:00')).replace(tzinfo=pytz.UTC)
 DEFAULT_TIMEZONE = 'Asia/Shanghai'
 FILE_SUFFIX = os.environ.get('FILE_SUFFIX', '.md')
 README_FILE = 'README.md'
