@@ -1,8 +1,8 @@
-# Ethereum Protocol Fellowship
+# Ethereum Protocol Fellowship Mandarin Group
 
 ## 介绍
 
-[EPF（Ethereum Protocol Fellowship）](https://github.com/eth-protocol-fellows/cohort-five/blob/main/program-guide/program-details.md) 是由 EF 发起并资助的奖学金计划，每年一期，旨在从社区中遴选出 20 至 30 名优秀开发者参与。在奖学金计划期间，EF 提供导师指导和资金支持，帮助开发者迅速掌握以太坊协议层及客户端相关知识。通常，EPF 的报名在每年 6 月左右开启，经过大约 5 个月的实践开发，最终在 11 月底的 Devcon/Devconnect 大会上展示成果。
+[EPF（Ethereum Protocol Fellowship）](https://github.com/eth-protocol-fellows/cohort-five/blob/main/program-guide/program-details.md) 是由 EF 发起并资助的奖学金计划，每年一期，旨在从社区中遴选出 20 至 30 名优秀开发者参与。在奖学金计划期间，EF 提供导师指导和资金支持，帮助开发者迅速掌握以太坊协议层及客户端相关知识。通常，EPF 的报名在每年 4-5 月左右开启，经过大约半年的实践开发，最终在 11 月底的 Devcon/Devconnect 大会上展示成果。
 
 自去年起，EPF 增设了 [EPFsg（EPF Study Group）](https://epf.wiki/#/eps/intro) 教学计划，旨在吸引更多开发者提前学习相关知识，并同时推出了 [epf.wiki](https://epf.wiki/#/) 这一优秀学习资源。今年，EPFsg 与 EPF 均将启动。为此，我们发起了本次“残酷共学”活动，希望大家能迅速回顾相关资料，为今年 EPFsg 的入学做好充分准备，之后一同进步，共同学习。
 
@@ -19,14 +19,17 @@ Ethereum, Protocol, EPF
 - 最好有一些代码基础，因为这个课程会有一些技术深度，理解起来方便一些
 
 ## 报名时间
-
+Pre-Intensive week
 - 开始时间：2025-02-01
 - 结束时间：2025-02-05
+Intensive week
+- 开始时间：2025-02-14
+- 结束时间：2025-02-16
 
 ## 共学时间
 
 - 开始时间：2025-02-06
-- 结束时间：2025-03-06
+- 结束时间：2025-03-02
 
 ## 发起人
 
@@ -49,12 +52,12 @@ Telegram：https://t.me/ETHPandaOrg/5427
 
 ## 学习资料/课程安排
 
-### 第一周和第二周
+### 第一周和第二周（2月6日 - 2月16日）
 
-- 主要围绕 https://epf.wiki/ 进行学习，快速的刷完之前的一些知识和笔记
-- 期间会穿插 EPF 相关的技术分享，包括但不限于去年 EPF 计划入选者的经验、协议层相关的分享
+- 主要围绕 https://epf.wiki/ 进行学习，快速的刷完之前的一些协议层的基础知识和笔记
+- 每周四晚7点（UTC+8）进行残酷共学周会，进行 EPF 学习成果交流及协议层相关分享
 
-### 第三周和第四周
+### 第三周和第四周（2月17日 - 3月2日）
 
 - 正式的 EPFsg 将开启，我们将一起进入 EPFsg 的相关内容学习跟进
 - 本次 EPFsg 的前两周会学习压力会比较大，通过前期预习可以降低一些压力，同时我们共学小组可以一起前行
