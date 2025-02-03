@@ -71,7 +71,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 
 ## 报名和打卡规则
 
-因为残酷共学的报名和打卡是基于 GitHub 进行开展的，如果你是非开发者或者对 git 操作不熟悉，请先阅读此文档：[残酷共学 GitHub 新手教程](https://www.notion.so/lxdao/GitHub-53fca5ba49bb40c69e4e40e69f58f416)
+因为残酷共学的报名和打卡是基于 GitHub 进行开展的，如果你是非开发者或者对 git 操作不熟悉，请先阅读此文档：[残酷共学 GitHub 新手教程](https://lxdao.notion.site/GitHub-bd65b981146947fea1fb675942567a45?pvs=4)
 
 - 报名:
 
