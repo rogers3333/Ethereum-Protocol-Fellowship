@@ -94,7 +94,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
     ```
     - 日期格式为 `### 2024.07.11`，请不要随意更改
 
-## Ethereum Protocol Fellowship 打卡记录表
+## 残酷共学打卡记录表
 
 ✅ = Done ⭕️ = Missed ❌ = Failed
 
