@@ -139,7 +139,9 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | frankmint2024 | | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | Amberrrrrr | | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | yahsinhuangtw | | | | | | | | | | | | | | | | | | | | | | | |   |   |
+| 0xKarl98 | | | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
