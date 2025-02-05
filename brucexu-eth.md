@@ -43,8 +43,6 @@ Free software 的 free 是 freedom 而不是 price。但是 FOSS 是非常有价
 
 执行层处理实际交易和用户交互，共识层提供证明的共识机制。
 
-![image](https://github.com/user-attachments/assets/7b320381-b7a0-4ac3-b7d9-0c2ab3901c84)
-
 ## [Protocol Design Philosophy](https://epf.wiki/#/wiki/protocol/design-rationale)
 
 - 简单
