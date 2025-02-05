@@ -14,11 +14,23 @@ timezone: Asia/Shanghai
 ## Notes
 
 <!-- Content_START -->
+### 2025.02.07
 
-### 2024.07.11
+ 由于是 ethereum 开发老手，快速的过了 week1 的内容。
+ 粗略的过了一遍 test case repo，很好的学习仓库，先 mark ，慢慢学习。
+ ```
+ Here is a short list of repositories dedicated to testing:
 
-笔记内容
+https://github.com/ethereum/tests
+https://github.com/ethereum/retesteth
+https://github.com/ethereum/execution-spec-tests
+https://github.com/ethereum/hive
+https://github.com/kurtosis-tech/kurtosis
+https://github.com/MariusVanDerWijden/FuzzyVM
+https://github.com/lightclient/rpctestgen
+ ```
+ 最后尝试去 [https://ethereum.org/quizzes](https://ethereum.org/quizzes) 做了个小测试，没满分，还是得谦虚。
 
-### 2024.07.12
+
 
 <!-- Content_END -->
