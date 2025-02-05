@@ -4,7 +4,7 @@ timezone: Asia/Shanghai
 
 ---
 
-# {Bob Yan}
+# Bob Yan
 
 1. 自我介绍
   大家好，我是Bob Yan,一个对Web3感兴趣的RISCV Engineer，初级前端开发者，很开心参加这次残酷供学。
