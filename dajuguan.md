@@ -34,4 +34,6 @@ Week 1: Protocol Intro
     - Discord: Ethereum R&D discord(https://discord.com/invite/qGpsxSA)
 - [Week 1相关资料](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship/issues/73)
 
+### 2024.02.06
+
 <!-- Content_END -->
