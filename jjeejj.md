@@ -60,10 +60,10 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 <!-- Content_START -->
 
-### 2024.07.11
+### 2025.01.06
 
-笔记内容
-
-### 2024.07.12
+1. 今天快速 了解 EPF（Ethereum Protocol Fellowship ） wiki 是什么： ethereum protocol 资源的集合。包含 2 部分
+   1. Protocol Study Group
+   2. Protocol Wiki
 
 <!-- Content_END -->
