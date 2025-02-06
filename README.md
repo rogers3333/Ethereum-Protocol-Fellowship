@@ -154,7 +154,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | Azleal |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | jjeejj |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | buctor41 |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
-| zhwindy |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
+| zhwindy | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | rectinajh |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | letsgoexplore |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | Lvista |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
@@ -186,6 +186,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | yenchihliao |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | DasNarrenschiff | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
