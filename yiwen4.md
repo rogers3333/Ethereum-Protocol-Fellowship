@@ -51,20 +51,20 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
-# loxia.eth
+# {你的名字}
 
 1. 自我介绍
-LXDAO builder，正在做 OP 相关的治理研究，正在持续深入研究以太坊
-https://x.com/Loxia_in_Tj
+2. 你认为你会完成本次残酷学习吗？
+3. TG 联系方式：@xxxx
 
 ## Notes
 
 <!-- Content_START -->
 
-### 2024.07.11
+### 2025.02.06
 
 笔记内容
 
-### 2024.07.12
+### 2025.02.07
 
 <!-- Content_END -->
