@@ -44,17 +44,21 @@ https://github.com/prysmaticlabs/prysm/blob/develop/beacon-chain/node/node.go#L2
  * P2P Service 顾名思义，P2P广播网络
  * [Backfill Service](https://github.com/prysmaticlabs/prysm/blob/develop/beacon-chain/sync/backfill/service.go) 进代码看了一下，好像和slot有关系，也和同步有关系
  * POW Chain Service 向前兼容
- * Attestation Pool Service 见证池子，可能和 PoS 有关系
+ * [Attestation Pool Service](https://github.com/prysmaticlabs/prysm/blob/develop/beacon-chain/operations/attestations/service.go) 见证，可能和 PoS 有关系
  * Blockchain Service 名字起的太泛泛了
  * Initial Sync Service 首次同步之后要做些什么？
  * Sync Service 很明显
- * Slashing Pool Service 和 POS 质押有关系
- * Slasher Service 和质押有关系
+ * [Slashing Pool Service](https://github.com/prysmaticlabs/prysm/blob/develop/beacon-chain/operations/slashings/service_new.go) 和 POS 质押有关系
+ * [Slasher Service](https://github.com/prysmaticlabs/prysm/blob/develop/beacon-chain/slasher/service.go#L84) 和质押有关系
  * builder service 猜测这里的 builder 就是区块链新 block 的 builder 的意思
  * RPC Service 很好懂
  * HTTP Service 很好懂，可以看看有什么API在里面
  * Validator Monitoring Service 很好懂
  * Pruner Service 历史数据库删除？
+
+经过一下午的研究，我大致确认 Slasher Service 才是我要研究的代码，应该是 PoS 逻辑最主要的部分。
+Attestation Pool Service 似乎和区块分叉的选择有关系。
+Slashing Pool Service 则是 Slasher Service 的依赖模块。
 
 ### 2025.02.08
 
