@@ -40,4 +40,22 @@ https://github.com/prysmaticlabs/prysm/blob/develop/beacon-chain/node/node.go#L2
 
 休息一下……我们遇到了分叉路口，需要好好思考一下接下来读哪些代码？
 
+直接从名字猜吧：
+ * P2P Service 顾名思义，P2P广播网络
+ * [Backfill Service](https://github.com/prysmaticlabs/prysm/blob/develop/beacon-chain/sync/backfill/service.go) 进代码看了一下，好像和slot有关系，也和同步有关系
+ * POW Chain Service 向前兼容
+ * Attestation Pool Service 见证池子，可能和 PoS 有关系
+ * Blockchain Service 名字起的太泛泛了
+ * Initial Sync Service 首次同步之后要做些什么？
+ * Sync Service 很明显
+ * Slashing Pool Service 和 POS 质押有关系
+ * Slasher Service 和质押有关系
+ * builder service 猜测这里的 builder 就是区块链新 block 的 builder 的意思
+ * RPC Service 很好懂
+ * HTTP Service 很好懂，可以看看有什么API在里面
+ * Validator Monitoring Service 很好懂
+ * Pruner Service 历史数据库删除？
+
+### 2025.02.08
+
 <!-- Content_END -->
