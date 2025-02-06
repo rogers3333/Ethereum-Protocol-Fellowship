@@ -123,7 +123,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | lllapland |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | passer-byzhang |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | StillFantastic |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
-| debugzhao |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
+| debugzhao | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | StarryDeserts | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | KieSun |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | k66 | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
@@ -186,6 +186,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | yenchihliao |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | DasNarrenschiff | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
