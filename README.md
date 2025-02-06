@@ -175,7 +175,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | dixia | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | dajuguan | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | timfaner | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
-| JeasonZhang |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
+| JeasonZhang | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | LikKee |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | phoebe-dot |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | PubYuCHe |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
@@ -188,6 +188,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | awsomecty | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | devbards |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
