@@ -136,7 +136,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | GuoyangLiu24 |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | cooper |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | chyyynh |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
-| frankmint2024 |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
+| frankmint2024 | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | Amberrrrrr |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | yahsinhuangtw |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | 0xKarl98 |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
@@ -186,6 +186,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | yenchihliao |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | DasNarrenschiff | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
