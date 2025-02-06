@@ -38,6 +38,7 @@ Quick review of Week 0
 - What type of p2p is Ethereum and Bitcoin
     - Bitcoin: mostly unstructured p2p with a gossip protocol for tx & block propagation
     - Ethereum: structured p2p with Kademlia DHT
+      
     |         | Bitcoin | Ethereum |
     | -------- | ------- | ------- |
     | network type  | unstructred p2p    | structured p2p (kademlia DHT)    |
