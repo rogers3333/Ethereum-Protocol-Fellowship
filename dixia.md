@@ -1,5 +1,5 @@
 ---
-timezone: Asia/Shanghai
+timezone: Asia/Bangkok
 ---
 
 > 请在上边的 timezone 添加你的当地时区，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
@@ -51,10 +51,11 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
-# henryleo
+# zt2
 
-1. 自我介绍 hi，我是henryleo，生物信息工程师，开放科学/DeSci爱好者，同时也对代币经济学、隐私和区块链在社会治理中的作用很感兴趣。目前专注合成生物学工作。
-2. 你认为你会完成本次残酷学习吗？ 我想我可以！
+1. 自我介绍: 一名 Crypto 研究员
+2. 你认为你会完成本次残酷学习吗？Try my best
+3. TG 联系方式：@imkurt
 
 ## Notes
 
@@ -62,13 +63,17 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ### 2025.02.06
 
-#### 2025残酷共学、EPFsg 和 EPF
-EPF全称是[Ethereum Protocol Fellowship](https://github.com/eth-protocol-fellows/cohort-five/blob/main/program-guide/program-details.md)，
-是一个以学徒制的形式招募、筛选和培养以太坊核心开发者的活动。可想而知EPF是小规模且深入的活动，为了吸引更多开发者加入以太坊生态，
-EPF Study Group（EPFsg）被提出，以相对浅显的形式介绍以太坊，从开发哲学到路线图均有涉及，更方便广大开发者、研究员，
-甚至爱好者了解以太坊的核心组织架构、开发进展以及目前面临的技术问题。
+Node and EL. But is this a physical scope separation? Need to learn more. 
 
-残酷共学是ETHPanda主办，以中文社群为主，基于EPFsg的材料的共学获得，每日打卡但并不限制学习进度（无需许可的进展2333），旨在为中文社群更好地连接至EPFsg
+EOA controlled by key pair. Contract controlled by code.
 
+Every smart contract's persistent storage is just an array of 32bytes. the root is a MPT hash. Does balance take up space of storage?
+
+Message are just tx from contract without signature. but then how does other contracts know the message is from the initial contract?
+And how does EVM or consensus verify the message(virt tx)?
+
+https://cs251.stanford.edu/lectures/lecture7.pdf [0]
+
+### 2025.02.07
 
 <!-- Content_END -->
