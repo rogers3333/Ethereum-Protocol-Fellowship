@@ -4,7 +4,7 @@ timezone: Asia/Shanghai
 
 ---
 
-# {amber}
+# amber
 
 1. 自我介绍 学生
 2. 你认为你会完成本次残酷学习吗？ 会
