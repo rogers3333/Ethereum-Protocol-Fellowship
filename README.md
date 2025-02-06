@@ -147,7 +147,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | kidneyweakx | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | keroro520 |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | huangyan0914 |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
-| 0xNezha |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
+| 0xNezha | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | Garyamour |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | huahuahua1223 |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | dethan3 | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
@@ -187,6 +187,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | DasNarrenschiff | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | awsomecty |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
