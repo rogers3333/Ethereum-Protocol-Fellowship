@@ -138,7 +138,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | chyyynh |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | frankmint2024 | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | Amberrrrrr |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
-| yahsinhuangtw |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
+| yahsinhuangtw | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | 0xKarl98 |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | marvelshan | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | rogers3333 |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
@@ -186,6 +186,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | yenchihliao |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | DasNarrenschiff | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
