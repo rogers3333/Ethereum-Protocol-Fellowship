@@ -55,3 +55,4 @@ https://epf.wiki/#/eps/week1
 - **The Verge** Introduction of **Verkle Trees** to optimize data storage.  
 - **The Purge** Pruning old state data to reduce node storage requirements.  
 - **The Splurge** Miscellaneous upgrades and optimizations.  
+  
