@@ -16,7 +16,9 @@ timezone: Asia/Shanghai
 
 ### 2025.02.06
 
-笔记内容
+I had finished week 0 and week 1 study materials.
+Like what Mario said, the first five weeks are about the introduction of Enthereum.
+That is, I would be able to write some code after that.
 
 ### 2025.02.07
 
