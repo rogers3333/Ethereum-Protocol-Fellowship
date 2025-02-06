@@ -14,10 +14,6 @@ timezone: Asia/Shanghai
 
 <!-- Content_START -->
 
-### 2024.07.11
+### 2025.02.06
 
-笔记内容
-
-### 2024.07.12
-
-<!-- Content_END -->
+看完了week1 writeup，有许多不错的参考资料链接，有空慢慢看

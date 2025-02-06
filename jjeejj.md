@@ -51,20 +51,19 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
-# {你的名字}
+# 奕 iyi
 
-1. 自我介绍
-2. 你认为你会完成本次残酷学习吗？
-3. 你的 Telegram
+1. 自我介绍：一名 后端 Golang、Node.js、Rust 开发者; 合约 ETH、Arb、Solana 开发者。进入 web3 行业 2 年
+2. 你认为你会完成本次残酷学习吗？会
 
 ## Notes
 
 <!-- Content_START -->
 
-### 2024.07.11
+### 2025.02.06
 
-笔记内容
-
-### 2024.07.12
+1. 今天快速 了解 EPF（Ethereum Protocol Fellowship ） wiki 是什么： ethereum protocol 资源的集合。包含 2 部分
+   1. Protocol Study Group
+   2. Protocol Wiki
 
 <!-- Content_END -->
