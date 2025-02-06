@@ -137,7 +137,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | cooper | ⭕️ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | chyyynh | ⭕️ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | frankmint2024 | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
-| Amberrrrrr | ⭕️ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
+| Amberrrrrr | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | yahsinhuangtw | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | 0xKarl98 | ⭕️ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | marvelshan | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
@@ -188,6 +188,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | awsomecty | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | devbards | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
