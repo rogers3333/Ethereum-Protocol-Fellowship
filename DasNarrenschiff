@@ -2,54 +2,6 @@
 timezone: Asia/Shanghai
 ---
 
-> 请在上边的 timezone 添加你的当地时区，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
-> 时区请参考以下列表，请移除 # 以后的内容
-
-timezone: Pacific/Honolulu # 夏威夷-阿留申标准时间 (UTC-10)
-
-timezone: America/Anchorage # 阿拉斯加标准时间 (UTC-9)
-
-timezone: America/Los_Angeles # 太平洋标准时间 (UTC-8)
-
-timezone: America/Denver # 山地标准时间 (UTC-7)
-
-timezone: America/Chicago # 中部标准时间 (UTC-6)
-
-timezone: America/New_York # 东部标准时间 (UTC-5)
-
-timezone: America/Halifax # 大西洋标准时间 (UTC-4)
-
-timezone: America/St_Johns # 纽芬兰标准时间 (UTC-3:30)
-
-timezone: America/Sao_Paulo # 巴西利亚时间 (UTC-3)
-
-timezone: Atlantic/Azores # 亚速尔群岛时间 (UTC-1)
-
-timezone: Europe/London # 格林威治标准时间 (UTC+0)
-
-timezone: Europe/Berlin # 中欧标准时间 (UTC+1)
-
-timezone: Europe/Helsinki # 东欧标准时间 (UTC+2)
-
-timezone: Europe/Moscow # 莫斯科标准时间 (UTC+3)
-
-timezone: Asia/Dubai # 海湾标准时间 (UTC+4)
-
-timezone: Asia/Kolkata # 印度标准时间 (UTC+5:30)
-
-timezone: Asia/Dhaka # 孟加拉国标准时间 (UTC+6)
-
-timezone: Asia/Bangkok # 中南半岛时间 (UTC+7)
-
-timezone: Asia/Shanghai # 中国标准时间 (UTC+8)
-
-timezone: Asia/Tokyo # 日本标准时间 (UTC+9)
-
-timezone: Australia/Sydney # 澳大利亚东部标准时间 (UTC+10)
-
-timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
-
----
 
 # loxia.eth
 
@@ -61,10 +13,23 @@ https://x.com/Loxia_in_Tj
 
 <!-- Content_START -->
 
-### 2024.07.11
+### 2025.02.06
 
-笔记内容
+今天先重建下关于以太坊协议的整体认知，过了一下这个：https://epf.wiki/#/eps/intro
 
-### 2024.07.12
+Cypherpunks认为，个人必须主动采取措施保护隐私，而不是寄希望于政府或企业的善意，但是对于普罗大众来说，无法做到独立验证复杂且规模庞大的底层代码，信任接口背后的黑盒是唯一选择，如何在抽象化业务来扩大需求的同时，保证接口背后黑盒的可验证性和公平竞争，我觉得这是未来以太坊发展比较重要的点：需求不同背后的执行解耦，并抽象出不同的 layer 画像，并且用户可以轻易验证。
+
+接下来要搞明白以太坊中信任的层级关系，实际的信任层级关系应该是多元的，复杂的，技术层，共识层，应用层，三者之间的关系，要画一个图。
+
+最近在看奥派的《人的行为》，想到在以太坊中，一位用户通过周围信任的人的选择去模仿原子行为（比如信任 Vitalik 或者信任周围一位开发者，或者信任周围一位经常做与自己类似交易/用途的经验丰富者），这种“信任”对该用户带来的便利与风险的比值，这种“信任”对整个网络带来的风险与收益，以及网络中这种“信任”的去中心化程度，都是很有意思的延伸。
+
+所以接下来要看一看链抽象和账户抽象。
+
+接口之间互换的便利性，也就是跨链的互操作性，也是至关重要的，所以接下来要研究互操作性的一些底层原理，并且看一下互操作性面临的挑战。
+
+在 21 天的最后，想产出一个信任网络的动态博弈模型（草案或者思考也行
+
+### 2025.02.07
+
 
 <!-- Content_END -->
