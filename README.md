@@ -186,8 +186,9 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | yenchihliao | ⭕️ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | DasNarrenschiff | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | awsomecty | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
-| devbards | ⭕️ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
+| devbards | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
