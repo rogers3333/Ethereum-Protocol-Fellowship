@@ -29,11 +29,22 @@ Quick review of Week 0
         - fault tolerance: no single point of failure
         - resource sharing: peers can share computing power, storage, or bandwidth
     - Type of p2p network
-        - unstructured p2p: nodes randomly connect (eg. Gnutella, Kazaa)
-        - structured p2p: use algo to route data (eg. DHT in BitTorrent, Kademila)
-        - hybrid p2p: mix of decentralized peers and some centralized componenets
-- Merkle tree in Bitcoin
-- 
+        - unstructured p2p
+            - nodes randomly connect (eg. Gnutella, Kazaa)
+        - structured p2p
+            - use algo to route data (eg. DHT in BitTorrent, Kademila)
+        - hybrid p2p
+            - mix of decentralized peers and some centralized componenets
+- What type of p2p is Ethereum and Bitcoin
+    - Bitcoin: mostly unstructured p2p with a gossip protocol for tx & block propagation
+    - Ethereum: structured p2p with Kademlia DHT
+    |         | Bitcoin | Ethereum |
+    | -------- | ------- | ------- |
+    | network type  | unstructred p2p    | structured p2p (kademlia DHT)    |
+    | node discovery | random peer selection, DNS seed     | kademlia DHT for structured peer lookup   |
+    | data porpagation    | gossip-based (flooding)    | gossip-based + DHT routing   |
+    | efficiency    | redundant message forwarding    | more efficient lookup   |
+
 
 ### 2025.02.07
 
