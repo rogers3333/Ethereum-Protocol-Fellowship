@@ -171,7 +171,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | amandakelake | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | ALiangNe |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | tienshaoku | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
-| tannerang |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
+| tannerang | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | dixia | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | dajuguan | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | timfaner | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
@@ -188,6 +188,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | awsomecty | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | devbards |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
