@@ -159,7 +159,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | letsgoexplore |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | Lvista |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | lanpan999 |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
-| liuxulife |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
+| liuxulife | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | CHENFANGC | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | ppatrick007 |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | zt2 | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
@@ -187,6 +187,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | DasNarrenschiff | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | awsomecty |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
