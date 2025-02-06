@@ -15,12 +15,7 @@ timezone: Asia/Shanghai
 <!-- Content_START -->
 
 ### 2024.02.06
-finish the Ethereum Protocol Studies Survey 2025
-learn the basic knowledge of Ethereum Protocol
-
-
-笔记内容
-
-### 2024.02.07
+1.finish the Ethereum Protocol Studies Survey 2025
+2.learn the basic knowledge of Ethereum Protocol
 
 <!-- Content_END -->
