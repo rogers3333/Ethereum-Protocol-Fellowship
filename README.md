@@ -172,7 +172,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | ALiangNe |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | tienshaoku |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | tannerang |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
-| dixia |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
+| dixia | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | dajuguan |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | timfaner |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | JeasonZhang |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
@@ -186,6 +186,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | yenchihliao |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | DasNarrenschiff | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
