@@ -143,7 +143,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | marvelshan | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | rogers3333 |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | deporter |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
-| LouisTsai-Csie |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
+| LouisTsai-Csie | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | kidneyweakx | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | keroro520 |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | huangyan0914 |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
@@ -187,6 +187,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | DasNarrenschiff | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | awsomecty |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
