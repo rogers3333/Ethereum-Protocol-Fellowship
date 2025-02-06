@@ -185,8 +185,9 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | eddy8 |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | yenchihliao |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | DasNarrenschiff | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
-| awsomecty |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
+| awsomecty | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
