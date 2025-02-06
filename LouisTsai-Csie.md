@@ -14,6 +14,9 @@ Yes.
 ## Notes
 
 <!-- Content_START -->
-
+### 2025.02.06
+I finished the protocol wiki week0 and week1.
+And this blog post from Vitalik: https://vitalik.eth.limo/general/2017/09/14/prehistory.html
+The wiki is awesome, it provide very useful resource to me.
 
 <!-- Content_END -->
