@@ -1,5 +1,5 @@
 ---
-timezone: Asia/Shanghai
+timezone: Europe/Berlin
 ---
 
 > 请在上边的 timezone 添加你的当地时区，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
@@ -54,9 +54,9 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 # {你的名字}
 
 1. 自我介绍
+我是一名传统行业的系统toB产品经理
 2. 你认为你会完成本次残酷学习吗？
-3. 你的 Telegram
-
+我最近工作有一点忙，不确定是不是能够每天都能坚持，但是至少周末可以
 ## Notes
 
 <!-- Content_START -->

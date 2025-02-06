@@ -1,5 +1,5 @@
 ---
-timezone: Asia/Shanghai
+timezone: Asia/Bangkok
 ---
 
 > 请在上边的 timezone 添加你的当地时区，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
@@ -51,20 +51,29 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
-# {你的名字}
+# zt2
 
-1. 自我介绍
-2. 你认为你会完成本次残酷学习吗？
-3. 你的 Telegram
+1. 自我介绍: 一名 Crypto 研究员
+2. 你认为你会完成本次残酷学习吗？Try my best
+3. TG 联系方式：@imkurt
 
 ## Notes
 
 <!-- Content_START -->
 
-### 2024.07.11
+### 2025.02.06
 
-笔记内容
+Node and EL. But is this a physical scope separation? Need to learn more. 
 
-### 2024.07.12
+EOA controlled by key pair. Contract controlled by code.
+
+Every smart contract's persistent storage is just an array of 32bytes. the root is a MPT hash. Does balance take up space of storage?
+
+Message are just tx from contract without signature. but then how does other contracts know the message is from the initial contract?
+And how does EVM or consensus verify the message(virt tx)?
+
+https://cs251.stanford.edu/lectures/lecture7.pdf [0]
+
+### 2025.02.07
 
 <!-- Content_END -->

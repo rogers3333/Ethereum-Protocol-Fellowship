@@ -51,20 +51,20 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
-# {你的名字}
+# {chyyynh}
 
 1. 自我介绍
+
+   學很多次相關知識都失敗了
+
 2. 你认为你会完成本次残酷学习吗？
-3. 你的 Telegram
+
+   不確定
 
 ## Notes
 
 <!-- Content_START -->
 
-### 2024.07.11
-
-笔记内容
-
-### 2024.07.12
+### 
 
 <!-- Content_END -->

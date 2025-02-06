@@ -55,16 +55,16 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 1. 自我介绍
 2. 你认为你会完成本次残酷学习吗？
-3. 你的 Telegram
+3. TG 联系方式：@xxxx
 
 ## Notes
 
 <!-- Content_START -->
 
-### 2024.07.11
+### 2025.02.06
 
 笔记内容
 
-### 2024.07.12
+### 2025.02.07
 
 <!-- Content_END -->
