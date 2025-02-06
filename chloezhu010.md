@@ -16,10 +16,25 @@ timezone: Europe/Berlin
 
 <!-- Content_START -->
 
-### 2024.07.11
+### 2025.02.06
 
-笔记内容
+Quick review of Week 0
+- What's a P2P network
+    - Definition
+        - A decentralized communication model where nodes in the network can communicate directly with each other witout a central server
+        - Unlike traditional client/ server model, where a centralized authority manage all connection & data transfer, p2p network distribute workload and data among participants
+    - Key features of p2p network
+        - decentralized: no central server, nodes share data directly
+        - scalable: network grows as more nodes join
+        - fault tolerance: no single point of failure
+        - resource sharing: peers can share computing power, storage, or bandwidth
+    - Type of p2p network
+        - unstructured p2p: nodes randomly connect (eg. Gnutella, Kazaa)
+        - structured p2p: use algo to route data (eg. DHT in BitTorrent, Kademila)
+        - hybrid p2p: mix of decentralized peers and some centralized componenets
+- Merkle tree in Bitcoin
+- 
 
-### 2024.07.12
+### 2025.02.07
 
 <!-- Content_END -->
