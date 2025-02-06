@@ -13,10 +13,10 @@ web2 java开发，想踏实的学习eth
 
 <!-- Content_START -->
 
-### 2024.07.11
+### 2025.02.06
 
-笔记内容
+初步了解Ethereum Protocol Studies
 
-### 2024.07.12
+### 2025.02.07
 
 <!-- Content_END -->
