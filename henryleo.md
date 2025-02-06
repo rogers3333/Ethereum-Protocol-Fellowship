@@ -60,10 +60,15 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 <!-- Content_START -->
 
-### 2024.07.11
+### 2025.02.06
 
-笔记内容
+#### 2025残酷共学、EPFsg 和 EPF
+EPF全称是[Ethereum Protocol Fellowship](https://github.com/eth-protocol-fellows/cohort-five/blob/main/program-guide/program-details.md)，
+是一个以学徒制的形式招募、筛选和培养以太坊核心开发者的活动。可想而知EPF是小规模且深入的活动，为了吸引更多开发者加入以太坊生态，
+EPF Study Group（EPFsg）被提出，以相对浅显的形式介绍以太坊，从开发哲学到路线图均有涉及，更方便广大开发者、研究员，
+甚至爱好者了解以太坊的核心组织架构、开发进展以及目前面临的技术问题。
 
-### 2024.07.12
+残酷共学是ETHPanda主办，以中文社群为主，基于EPFsg的材料的共学获得，每日打卡但并不限制学习进度（无需许可的进展2333），旨在为中文社群更好地连接至EPFsg
+
 
 <!-- Content_END -->
