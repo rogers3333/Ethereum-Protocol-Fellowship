@@ -12,8 +12,24 @@ timezone: Asia/Shanghai
 <!-- Content_START -->
 
 ### 2025.02.06
-
-笔记内容
+### Learning general concepts:
+Learn [Inevitable Ethereum - World Computer](https://inevitableeth.com/home/ethereum/world-computer)
+- Btc came up the promise: fair payments, for anyone, at any time, forever
+- The World Computer is made of up 3 parts:
+	- Ethereum Virtual Machine (EVM)
+		- a Turing-complete distributed state machine
+	- Ethereum Blockchain
+		- A [block](https://inevitableeth.com/home/ethereum/blockchain/block) is made up of 3 key components:
+			- A record of the [transactions](https://inevitableeth.com/home/ethereum/blockchain/transaction) executed at the time the block was created
+			- A [signature](https://inevitableeth.com/home/concepts/digital-signatures), unique to each specific block
+			- A reference to the previous block's signature
+	- Ethereum Network
+		- is made up of a group of people and institutions who decide to run an Ethereum node
+		- A single node runs two pieces of software:
+			- a consensus client
+			- an execution client (responsible for operating the EVM)
+		- PoS(2022) <- PoW(2015)
+			- Stake 32ETH to become a validator
 
 ### 2025.02.07
 
