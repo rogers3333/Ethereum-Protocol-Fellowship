@@ -33,4 +33,11 @@ Engine API 是 geth 和 prysm 之间通信的API，暂时还不知道具体工�
 
 ### 2025.02.07
 
+从 https://github.com/prysmaticlabs/prysm/blob/develop/beacon-chain/node/node.go 中的 `beacon.Start` 跳转到
+https://github.com/prysmaticlabs/prysm/blob/develop/runtime/service_registry.go#L42 `StartAll`, 这里顺便学习一下 Go 语言的 `go` 关键字用来启动 coroutine。软件工程里的很多东西还真的得有调试环境和 log 才能更容易的学习到。这里光靠读代码已经跟丢了，所以这就是我们未来实现工程需要避免的地方，写普通人能读的代码！尤其是区块链开源。
+
+https://github.com/prysmaticlabs/prysm/blob/develop/beacon-chain/node/node.go#L203 我们在 `func New` 里找到了 `func registerServices`
+
+休息一下……我们遇到了分叉路口，需要好好思考一下接下来读哪些代码？
+
 <!-- Content_END -->
