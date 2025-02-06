@@ -146,7 +146,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | LouisTsai-Csie | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | kidneyweakx | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | keroro520 |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
-| huangyan0914 |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
+| huangyan0914 | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | 0xNezha | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | Garyamour |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | huahuahua1223 |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
@@ -188,6 +188,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | awsomecty | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | devbards |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
