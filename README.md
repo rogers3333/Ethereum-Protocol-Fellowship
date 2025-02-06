@@ -118,7 +118,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | William-02-02 |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | hotoo |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | JoscelynFarr |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
-| cherry-yl-sh |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
+| cherry-yl-sh | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | HeliosLz |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | lllapland |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | passer-byzhang |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
@@ -187,6 +187,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | DasNarrenschiff | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | awsomecty |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
