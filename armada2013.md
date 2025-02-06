@@ -15,9 +15,12 @@ timezone: Asia/Shanghai
 <!-- Content_START -->
 
 ### 2024.02.06
+
+
 1.finish the Ethereum Protocol Studies Survey 2025
 
 2.learn the basic knowledge of Ethereum Protocol
+
 
 
 Ethereum network leverage decentralization to become permissionless, credible neutral and censorship resistant. It continues evolving to address the latest research, new and always present challenges. To maintain security and decentralization, blockchain technology has certain limits, mainly its scalability. Because Ethereum needs to always adhere to its principles, it motivates us to find clever solutions for these problems rather than accepting trade-offs.
