@@ -105,7 +105,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | PayFv |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | chloezhu010 | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | coratann |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
-| luffythink |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
+| luffythink | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | Henry |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | d0d0d9 | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | henryleo |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
@@ -187,6 +187,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | DasNarrenschiff | ✅ | | | | | | | | | | | | | | | | | | | | | | |   |   |
 | awsomecty |   | | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
