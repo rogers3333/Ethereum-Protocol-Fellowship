@@ -12,7 +12,7 @@ timezone: Asia/Dubai
 
 ## Notes
 
-### 2025.02.07
+### 2025.02.06
 https://epf.wiki/#/eps/week1
 
 #### Prehistory and Philosophy
